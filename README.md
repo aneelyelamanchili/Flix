@@ -1,4 +1,4 @@
-# Project 1 - *Flix*
+# *Flix*
 
 **Flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
